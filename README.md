@@ -1,19 +1,10 @@
-A library for Dart developers.
+Projet d'école.
 
-## Usage
+Application Flutter de commerce de plantes avec le design pattern BLoC.
 
-A simple usage example:
+<p align="center">
+  <img src="https://github.com/Anthony-Guillaume/FlutterVerdure/blob/master/res/Verdure%20login.png" width="200" height="400">
+</p>
 
-```dart
-import 'package:verdure/verdure.dart';
+![til](https://github.com/Anthony-Guillaume/FlutterVerdure/blob/master/res/Verdure%20demo.gif)
 
-main() {
-  var awesome = new Awesome();
-}
-```
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
